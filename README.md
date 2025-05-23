@@ -6,3 +6,7 @@ Articles:
 
 Books:
   - Option Volatility and Pricing: [link](https://www.amazon.com/Option-Volatility-Pricing-Strategies-Techniques/dp/0071818774)
+
+Research:
+  - IN SEARCH OF THE ORIGINS OF FINANCIAL FLUCTUATIONS: THE INELASTIC MARKETS HYPOTHESIS: [link](https://www.nber.org/system/files/working_papers/w28967/w28967.pdf)
+
